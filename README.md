@@ -1,6 +1,6 @@
 # minishell
 
-42 school patner project for which we reverse engineered bash with some limitations.
+42 school partner project for which we reverse engineered bash with some limitations.
 
 ## Installation
 git clone git@github.com:Sekula34/minishell.git minishell  
